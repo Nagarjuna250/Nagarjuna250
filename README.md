@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nagarjuna S</h1>
 <h3 align="center">A passionate Data Engineer developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.dreamhost.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F11%2FUsing-GitHub-Feature-730x485.jpg&tbnid=lGud6f1x1zYixM&vet=10CI8BEDMo6gJqFwoTCKDd-MjU2IQDFQAAAAAdAAAAABAF..i&imgrefurl=https%3A%2F%2Fwww.dreamhost.com%2Fblog%2Fhow-to-use-wp-with-github%2F&docid=LEpUbRnjI0xDiM&w=730&h=485&q=github%20developer%20gif%20in%20readme&ved=0CI8BEDMo6gJqFwoTCKDd-MjU2IQDFQAAAAAdAAAAABAF](https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna250&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna250" /> </p>
 
